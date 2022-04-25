@@ -38,6 +38,16 @@ img {
     width: 100px;
 }
 
+
+#icon{
+
+    width: 30px;
+    cursor: pointer;
+    
+    text-align: right;
+}
+
+
 .navbar .nav-link {
     font-size: 14px;
     font-weight: 700;
@@ -140,7 +150,7 @@ section {
 }
 
 .col-img {
-    background-image: url(../img/cover2.jpg);
+    background-image: url(../img/vic1.jpg);
     background-position: center;
     background-size: cover;
     min-height: 500px;
