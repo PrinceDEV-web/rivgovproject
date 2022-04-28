@@ -35,7 +35,7 @@ img {
 }
 
 .logo {
-    width: 100px;
+    width: 60px;
 }
 
 
@@ -257,4 +257,15 @@ form .form-control {
 
 .footer-bottom {
     background-color: #242933;
+}
+
+
+/* victor started making some major unsafe changes */
+
+
+.card-effect:hover > img{
+   
+    transform: scale(1.1);
+    box-shadow: 0px 5px 20px rgb(171, 170, 170);
+
 }
